@@ -1,0 +1,9 @@
+GraphDB:
+  type: Nebula Graph
+  ip: 127.0.0.1
+  port: 9669
+  username: root
+  password: nebula
+Web:
+  ip: 127.0.0.1
+  port: 8080
